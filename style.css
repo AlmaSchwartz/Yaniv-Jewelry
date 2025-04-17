@@ -246,6 +246,7 @@ footer p {
         align-items: center;
     }
 }
+
 /* ==== Other Pages ==== */
 .coming-soon {
     color: #6a1b9a;
@@ -253,6 +254,7 @@ footer p {
     text-align: center;
     margin: 100px auto;
 }
+
 /* ==== Products Page ==== */
 .gallery {
     display: flex;
