@@ -52,10 +52,6 @@ nav ul li a {
     transition: color 0.3s ease;
 }
 
-nav ul li.active a {
-    border-bottom: 2px solid #6a1b9a;
-}
-
 nav ul li a:hover {
     color: #6a1b9a;
     cursor: pointer;
