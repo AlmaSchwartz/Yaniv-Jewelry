@@ -256,6 +256,17 @@ footer p {
 }
 
 /* ==== Products Page ==== */
+.main-title {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.main-title h2 {
+    font-size: 32px;
+    color: #6a1b9a;
+}
+
 .gallery {
     display: flex;
     justify-content: center;
