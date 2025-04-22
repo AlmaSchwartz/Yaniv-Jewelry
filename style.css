@@ -11,15 +11,26 @@ body {
     color: #333;
 }
 
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
 /* ===== Header ===== */
 header {
+    background-color: #fff;
+    border-bottom: 1px solid #eee;
+    padding: 0;
+}
+
+header .wrapper {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px 40px;
-    background-color: #fff;
-    border-bottom: 1px solid #eee;
 }
+
 
 .logo {
     font-size: 24px;
